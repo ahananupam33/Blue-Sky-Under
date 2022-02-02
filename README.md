@@ -23,6 +23,8 @@ The python version used in this project is 3.9.x.
 
 After installing all the dependencies, clone the repository into your local drive and then execute the App.py file and the web app will be shown on your local device.
 
+Also we have hosted the web app, you can find it [here](https://blueskyunder.herokuapp.com/)
+
 ## Contributors ✨
 
 
