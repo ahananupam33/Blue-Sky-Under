@@ -4,7 +4,7 @@
 - Used various techniques of time series forecasting in the model .
 - Used streamlit to create the frontend and hosted it on Heroku.
 
-![image](Screenshot (40).png)
+![image](Screenshot_blue.png)
 
 ## Dependencies
 
