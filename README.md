@@ -1,10 +1,10 @@
-# Plagiarism
+# Blue Sky Under
 - A web app which takes a date as input from the user and uses historical forecasting to predict and plot CO density(mg/m^3) and Temperature(C) of that day over 24 hours.
 - Gives you a line plot as well as a table of values for a specific day's prediction
 - Used various techniques of time series forecasting in the model .
 - Used streamlit to create the frontend and hosted it on Heroku.
 
-![image]()
+![image](Screenshot (40).png)
 
 ## Dependencies
 
@@ -48,4 +48,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 * [Stack Overflow](https://stackoverflow.com)
 * [Medium Articles](https://medium.com/)
 * [You-Tube](https://youtube.com)
+* [Streamlit](https://streamlit.io/)
+* [Unit8co](https://unit8co.github.io/darts/)
 
