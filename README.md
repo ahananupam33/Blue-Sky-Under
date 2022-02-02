@@ -27,6 +27,12 @@ After installing all the dependencies, clone the repository into your local driv
 
 Also we have hosted the web app, you can find it [here](https://blueskyunder.herokuapp.com/)
 
+
+## 🎞 Demo 
+ The link of the demo can be found [here](https://youtu.be/7SSQiEbQEgU)
+ 
+ 
+
 ## Contributors ✨
 
 
@@ -40,6 +46,7 @@ Also we have hosted the web app, you can find it [here](https://blueskyunder.her
     <td align="center"><a href="https://github.com/ahananupam33"><img src="https://avatars.githubusercontent.com/u/68801494?v=4" width="100px;" alt=""/><br /><sub><b>Ahan Anupam</b></sub></a><br />💻</td>
   </tr>
 </table>
+
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
